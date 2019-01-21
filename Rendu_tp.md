@@ -10,6 +10,7 @@
 
 #### ping
 Hote ---> VM
+
 ![](https://github.com/GratinDauphinoi/CCNA_TP3/blob/master/1.png?raw=true)
 
 VM ---> Hote
@@ -97,4 +98,5 @@ Puis avec la commande :
 ping 'Nom de domaine'
 ```
 On ping l'autre VM
+
 ![](https://github.com/GratinDauphinoi/CCNA_TP3/blob/master/ping%20vm1.PNG?raw=true)
