@@ -8,7 +8,7 @@
 
 ## 5. Faire joujou avec quelques commandes
 
-#### ping
+#### Ping
 Hote ---> VM
 
 ![](https://github.com/GratinDauphinoi/CCNA_TP3/blob/master/1.png?raw=true)
@@ -17,7 +17,7 @@ VM ---> Hote
 
 ![](https://github.com/GratinDauphinoi/CCNA_TP3/blob/master/2.png?raw=true)
 
-#### afficher la table de routage 
+#### Afficher la table de routage 
 
 de l'hote
 
@@ -57,7 +57,7 @@ firewall-cmd --add-port=2222/tcp --permanent
 ```
 De la on peut se reconnecter a Putty.
 
-#### B. netcat
+#### B. Netcat
 On ouvre le port 5454 :
 ```bash
 firewall-cmd --add-port=5454/tcp --permanent
