@@ -10,6 +10,7 @@
 
 #### ping
 Hote ---> VM
+
 ![](https://github.com/GratinDauphinoi/CCNA_TP3/blob/master/1.png?raw=true)
 
 VM ---> Hote
